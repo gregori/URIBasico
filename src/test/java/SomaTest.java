@@ -4,19 +4,19 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class LibraryTest {
+public class SomaTest {
     @Test public void testSomaAmbosPositivos() {
-        Library classUnderTest = new Library();
+        Soma classUnderTest = new Soma();
         assertEquals(19, classUnderTest.soma(10, 9));
     }
     
     @Test public void testSomaMaiorNegativo() {
-        Library classUnderTest = new Library();
+        Soma classUnderTest = new Soma();
         assertEquals(-6, classUnderTest.soma(-10, 4));
     }
     
     @Test public void testSomaMaiorPositivo() {
-        Library classUnderTest = new Library();
+        Soma classUnderTest = new Soma();
         assertEquals(8, classUnderTest.soma(15, -7));
     }
 }
