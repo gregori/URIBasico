@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LibraryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-24T22:00:12" hostname="macbookpro" time="0.003">
+  <properties/>
+  <testcase name="testSomaAmbosPositivos" classname="LibraryTest" time="0.002"/>
+  <testcase name="testSomaMaiorPositivo" classname="LibraryTest" time="0.0"/>
+  <testcase name="testSomaMaiorNegativo" classname="LibraryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
